@@ -1,4 +1,4 @@
-package Aula07.`exercicioAula-1-ClientesEContas`
+package Aula07
 
 class Conta (numConta: Int, var saldo: Double, titular: Cliente) {
 
